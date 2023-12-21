@@ -1,3 +1,3 @@
 # discord nitro generator written in go
 
-                                                      `go run main.go`
+                                                      go run main.go
