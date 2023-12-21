@@ -1,2 +1,3 @@
-# discord-nitro
-A discord nitro generator that is written in go(lang)
+# discord nitro generator written in go
+
+                                                      `go run main.go`
